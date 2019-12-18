@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyA2YrG62DQ73nkNfRJwHLbfxbh3b1CER-E');
 define('GJ_CODE', 'US');
 define('SITE_NAME', 'y2b');
 define('TITLENAME', 'y2b');
-define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('EN2DEKEY', 'pUyOX71YsBYMLzlSeRQuHcgM');
+define('EMAIL', 'asicminer@tuta.io');
+define('NAME', 'root');
+define('PASSWORD', 'ascent');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
